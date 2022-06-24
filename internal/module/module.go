@@ -25,7 +25,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/influxdata/pkg-config/internal/semver"
+	"github.com/mvn-trinhnguyen2-dn/pkg-config/internal/semver"
 )
 
 // A Version is defined by a module path and version pair.

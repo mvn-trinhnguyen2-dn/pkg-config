@@ -15,7 +15,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/influxdata/pkg-config/internal/module"
+	"github.com/mvn-trinhnguyen2-dn/pkg-config/internal/module"
 )
 
 // A File is the parsed, interpreted form of a go.mod file.
