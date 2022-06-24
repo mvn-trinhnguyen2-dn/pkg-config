@@ -83,7 +83,7 @@ type Library struct {
 	Target  Target
 }
 
-const modulePath = "github.com/influxdata/flux"
+const modulePath = "github.com/mvn-trinhnguyen2-dn/flux"
 
 func Configure(ctx context.Context, logger *zap.Logger, static bool) (*Library, error) {
 	target, err := getTarget(static)
